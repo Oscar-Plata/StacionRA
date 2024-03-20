@@ -1,0 +1,25 @@
+{
+  "name": "software",
+  "version": "1.0.0",
+  "description": "a",
+  "main": "index.js",
+  "scripts": {
+    "test": "a"
+  },
+  "repository": {
+    "type": "git",
+    "url": "a"
+  },
+  "keywords": [
+    "a"
+  ],
+  "author": "a",
+  "license": "ISC",
+  "dependencies": {
+    "mysql2": "^3.9.2",
+    "sequelize": "^6.37.1"
+  },
+  "devDependencies": {
+    "sequelize-cli": "^6.6.2"
+  }
+}
